@@ -35,10 +35,11 @@ Open the index.html file in your web browser:
 
 # User Interface
 
- <img src="./image/ticemp.png">
- <br>
+<img src="./image/ticemp.png"></img>
+<br>
+
  <hr>
- <img src="./image/tic.png">
+ <img src="./image/tic.png"></img>
 # How to Play
 Open the index.html file in your web browser.<br>
 The game board will be displayed, consisting of a 3x3 grid.<br>
