@@ -69,4 +69,4 @@ If you would like to contribute to this project, please fork the repository and 
 
 # Contact
 
-If you have any questions or suggestions, please feel free to contact me at your-tapeshchawle@gmail.com.
+If you have any questions or suggestions, please feel free to contact me at tapeshchawle@gmail.com.
